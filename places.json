@@ -1,0 +1,141 @@
+{
+	"html_attributions": [],
+        "next_page_token" : "CoQC_AAAAHI55kYUwgmsSfEH0FIF-bIO3G8lEDVG5PUGEowmkjjAAeIGxW_1b6AoDYJYQ0El-j0sMIAk7IYgKn0akKxbjJe075onbWAej4hHgx-hLkiEkWdcz1qRSwaDD2DBIu25saX4sWsVz5x-k3y_pq3ZteYupFDUY3J-bDULvSFWQ0YU2G8rlUXei5UAsUjjoO_MP9SDcuN8sv7Tj1Y54gPAuvoCsbQ0JiHJV8t8XdGmu1iydniKFi2AamLbHP8s2MjD_8RJp5JK20ASaDs8sUhmhd88fg1hSfIaeMhSN1gge547BZieUfEJbFpIVaF5HOHPcwTyzkupOAGBVJ-AZDkzsAgSEOe8W881l1-KZWh_amtDWLoaFEPJnyVvwDG7-meTgs6pzZB2rtM7",
+	"results": [{
+			 "formatted_address" : "40 Ngô Đức Kế, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.7732193,
+               "lng" : 106.7050894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.77451342989272,
+                  "lng" : 106.7065079298927
+               },
+               "southwest" : {
+                  "lat" : 10.77181377010728,
+                  "lng" : 106.7038082701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0fd5d1ba66bdf0b25bfcf926acedafccf7d57f2f",
+         "name" : "ME Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116476185375933495018\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAp6YlD9BKJnLK_teuw5icCUBXNfwbv144WUszbEIZt3P4I4oSHWaamHhLdJegZcs4Mae-0aAVAo85W2KMezs9cozgg-iO98w6a1snkkazlN1Wn-NaNzJXgXPxTeO3s9qSEhCFeTYIr0nVLTfAnDIqql6BGhTc54_DfpPSDua_35i1MVX7idx_tg",
+               "width" : 2560
+            }
+         ],
+
+         "place_id" : "ChIJgYiCiGovdTERHoTMCnfLngU",
+         "plus_code" : {
+            "compound_code" : "QPF4+72 Bến Nghé, District 1, Ho Chi Minh City",
+            "global_code" : "7P28QPF4+72"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgYiCiGovdTERHoTMCnfLngU",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 49 
+		},
+		{
+			 "formatted_address" : "200 Street D5, Phường 25, Bình Thạnh, Hồ Chí Minh 72308, Vietnam",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8057354,
+               "lng" : 106.7163614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.80708432989272,
+                  "lng" : 106.7177110798927
+               },
+               "southwest" : {
+                  "lat" : 10.80438467010728,
+                  "lng" : 106.7150114201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1c0b4e8510a99d28331d38936315174796ef39c8",
+         "name" : "Coffee Talk English",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100914483142908895886\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE39TChVMRdFaKrinXFR6hf_LCtGhSV-Oxy1vBGn1qVq9-XHwVWd080ZpehgAgW_tNLL6yRG4-oTcs7w858wPav9z5ngSmYIk1WjUKbSgxBTGWTjDN5auw-AQmkixZKlMEhD1k0mDnRw86x1HnxwJHjJtGhT1SsmRLhVq4mGyYoWjBohx6q_7pA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJwy00oospdTERytiQHVjvOrU",
+         "plus_code" : {
+            "compound_code" : "RP48+7G Phường 25, Bình Thạnh, Ho Chi Minh City",
+            "global_code" : "7P28RP48+7G"
+         },
+         "rating" : 5,
+         "reference" : "ChIJwy00oospdTERytiQHVjvOrU",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39
+		},
+		{
+ "formatted_address" : "2A Phan Tây Hồ, Phường 7, Phú Nhuận, Hồ Chí Minh, Vietnam",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8029187,
+               "lng" : 106.6860483
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.80427912989272,
+                  "lng" : 106.6874132798927
+               },
+               "southwest" : {
+                  "lat" : 10.80157947010728,
+                  "lng" : 106.6847136201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "bbf89326dff75f1eeb8cfd2332e32ef05a015579",
+         "name" : "Roji Coffee & Tea House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113400895475113803387\"\u003eVỹ Phạm\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz1HLeLG2O_hWTXL9I1h6nm1oyORF13IF3KU2qf_AWpWtbvJpLLRp_NvTO8CXSKMlu_TjSJl_i7fe2csRA1TGS7qAH6QLCAJNSxMtzZ_iLgWx2l2fMKmxQDOKV1spVe5zEhDTwPZq7Poji4Ja8ix-XhI6GhQD5NfU92K4-g3I7wdaJzQ1-eEbhQ",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJL5QK5doodTERGTtlU2bUmhA",
+         "plus_code" : {
+            "compound_code" : "RM3P+5C Phường 7, Phú Nhuận, Ho Chi Minh City",
+            "global_code" : "7P28RM3P+5C"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJL5QK5doodTERGTtlU2bUmhA",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 162
+		}
+        ],
+        "status": "OK"
+}
+
